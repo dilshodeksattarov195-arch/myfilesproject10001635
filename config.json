@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseselete",
+        "uuid": 12422730,
+        "checksum": "omcunj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
